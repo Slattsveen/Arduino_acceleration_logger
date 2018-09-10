@@ -6,3 +6,5 @@ This project is about logging acceleration data, simple as that. The unit can ei
 This repo contains a shopping list detailing the components of the logger, as well as gerber files for PCB-production and an assembly manual. Feel free to make your own :)
 
 The project is provided "as-is", with no warranties. But if you find any obvious improvements, feel free to post an issue. 
+
+Assembly requires soldering as well as a drill with a 7mm and a 15mm drill.
