@@ -8,3 +8,5 @@ This repo contains a shopping list detailing the components of the logger, as we
 The project is provided "as-is", with no warranties. But if you find any obvious improvements, feel free to post an issue. 
 
 Assembly requires soldering as well as a drill with a 7mm and a 15mm drill.
+
+If you have no other way of producing PCB's, it can be ordered from here: https://www.pcbway.com/project/shareproject/Arduino_acceleration_logger.html
