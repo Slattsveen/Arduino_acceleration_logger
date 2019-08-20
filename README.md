@@ -12,3 +12,7 @@ Assembly requires soldering as well as a drill with a 7mm and a 15mm drill. The 
 You might be interested in splitting the datafile if it becomes too large to open on your computer. http://www.hjsplit.org/ is a free program which does that for you.
 
 If you have no other way of producing PCB's, it can be ordered from here (be advised, Rev A (unmarked) and Rev B has critical errors on the board. Rev A may be used, : https://www.pcbway.com/project/shareproject/Arduino_acceleration_logger.html
+
+Recent addition; Automatic Python based RTC clock-setting script
+To use, download and install PySerial in addition to Python.
+Run the script, and input the serial port name where your Arduino is connected, the rest is done for you.
